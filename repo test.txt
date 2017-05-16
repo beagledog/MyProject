@@ -1,1 +1,3 @@
-Test note
+Test note.
+
+And now with Pull Request.
